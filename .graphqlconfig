@@ -2,8 +2,8 @@
     "schemaPath": "./schema.graphql",
     "extensions": {
         "endpoints": {
-            "demo": "http://3.20.167.184:3000/shop-api",
-            "dev": "http://3.20.167.184:3000/shop-api"
+            "demo": "http://localhost:3000/shop-api",
+            "dev": "http://localhost:3000/shop-api"
         }
     }
 }
