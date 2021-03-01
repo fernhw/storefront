@@ -1,8 +1,8 @@
 export const environment = {
     production: true,
-    apiHost: 'https://demo.vendure.io',
-    apiPort: 443,
+    apiHost: 'http://localhost',
+    apiPort: 3000,
     shopApiPath: 'shop-api',
-    baseHref: '/', 
+    baseHref: '/',
     tokenMethod: 'cookie',
 };
