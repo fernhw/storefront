@@ -1,6 +1,6 @@
 export const environment = {
     production: true,
-    apiHost: 'http://localhost',
+    apiHost: 'http://wuvulife.com',
     apiPort: 3000,
     shopApiPath: 'shop-api',
     baseHref: '/',
